@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+opencv-python
+qdrant-client
+python-multipart
+numpy
+pillow
